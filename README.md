@@ -10,4 +10,5 @@ Aquí puedes ver los resultados de la práctica 14:
 
 Aquí puedes ver los resultados de la práctica 15:
 
-[Ver la práctica 15](https://s1ipm.github.io/practica-15/práctica-15.html)
+[Ver la práctica 15](https://s1ipm.github.io/practica-14/practica-15.html)
+
